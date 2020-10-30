@@ -5,8 +5,6 @@ import useScript from '../hooks/useScript';
 
 import appleAuthHelpers from '../appleAuthHelpers';
 
-import './AppleSigninButton.css';
-
 import type { AppleAuthOptions } from '../types';
 
 /** Apple's script src */
